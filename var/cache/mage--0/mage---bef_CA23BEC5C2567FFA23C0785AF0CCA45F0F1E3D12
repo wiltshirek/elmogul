@@ -1,0 +1,17 @@
+<div class="nav-container">
+    <ul id="nav">
+		<li class="level0 level-top first"><a class="level-top" href="http://184.154.120.234/~kwilt/magento/index.php/"><span>Home</span></a></li>
+        <li class="level0 nav-1 active level-top first">
+<a href="http://184.154.120.234/~kwilt/magento/index.php/skinny-casual.html?___SID=U" class="level-top">
+<span>Skinny Ties</span>
+</a>
+</li><li class="level0 nav-2 level-top">
+<a href="http://184.154.120.234/~kwilt/magento/index.php/slim-ties.html?___SID=U" class="level-top">
+<span>Slim Ties</span>
+</a>
+</li><li class="level0 nav-3 level-top last">
+<a href="http://184.154.120.234/~kwilt/magento/index.php/traditional-formal.html?___SID=U" class="level-top">
+<span>Classic Ties</span>
+</a>
+</li>    </ul>
+</div>

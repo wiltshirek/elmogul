@@ -1,0 +1,1366 @@
+2013-09-01T21:08:43+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in /home/kwilt/public_html/magento/app/code/core/Mage/Captcha/Model/Observer.php on line 166
+2013-09-01T21:08:57+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in /home/kwilt/public_html/magento/app/code/core/Mage/Captcha/Model/Observer.php on line 166
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text2  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 66
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-01T22:31:19+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text2  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 66
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-01T22:33:59+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-01T22:35:25+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-01T22:36:24+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-01T22:41:08+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-01T22:42:54+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text3  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 67
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-03T15:24:04+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-03T15:26:25+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text4  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 68
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-03T16:12:18+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T17:04:58+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:04:58+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:04:58+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:04:58+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:04:58+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:04:58+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:15:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:15:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:15:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:15:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:15:50+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:15:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:17:14+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/cell_phone_landing_banner1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:17:14+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/ph_callout_left_rebel.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:48+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/home_main_callout.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:48+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:48+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/ph_callout_left_top.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:48+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:48+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img02.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:48+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:48+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/free_shipping_callout.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:48+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img01.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img05.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img06.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img03.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:23:50+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img04.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:23:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:24:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:44+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/ph_callout_left_rebel.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:44+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img01.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:44+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img02.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:44+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/free_shipping_callout.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:45+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img03.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:45+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:45+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img04.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:45+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:45+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/home_main_callout.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:45+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:46+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/ph_callout_left_top.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:46+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:46+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img06.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:46+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:25:46+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img05.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:25:46+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:27:27+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:29:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:31:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:31:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:14+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/checkout_promotion.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:14+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:23+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i5.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:23+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i4.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:24+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i1.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:24+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i6.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:24+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i7.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i8.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i2.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i3.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:55+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/ph_callout_left_top.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:55+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/free_shipping_callout.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:55+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img01.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:55+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/home_main_callout.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:55+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:56+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img03.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:56+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:56+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/ph_callout_left_rebel.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:56+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:56+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img02.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:56+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:56+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img04.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:56+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:57+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img05.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:57+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:50:57+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/best_selling_img06.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:50:57+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:51:35+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/checkout_promotion.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:51:35+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:51:49+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/cell_phone_landing_banner1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:51:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:52:33+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:52:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:52:34+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:52:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:52:34+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:52:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:52:46+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/freegift.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T17:52:46+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:58:10+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T17:58:10+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T18:01:36+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T18:01:36+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:32:12+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-03T20:32:12+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-03T20:32:12+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-03T20:32:12+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-03T20:32:12+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-03T20:32:12+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T20:37:55+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-03T20:37:55+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-03T20:37:55+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-03T20:37:55+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-03T20:37:55+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-03T20:37:55+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T20:44:13+00:00 ERR (3): Notice: Undefined index: text1  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 65
+2013-09-03T20:44:13+00:00 ERR (3): Notice: Undefined index: text5  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 69
+2013-09-03T20:44:13+00:00 ERR (3): Notice: Undefined index: text6  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 70
+2013-09-03T20:44:13+00:00 ERR (3): Notice: Undefined index: text7  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 71
+2013-09-03T20:44:13+00:00 ERR (3): Notice: Undefined index: text8  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 72
+2013-09-03T20:44:13+00:00 ERR (3): Notice: Undefined index: text9  in /home/kwilt/public_html/magento/app/code/local/EM/SlideshowWidget/controllers/WidgetController.php on line 73
+2013-09-03T20:58:17+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:58:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:58:18+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:58:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:58:19+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:58:19+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:58:44+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_visa.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:58:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:58:44+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_master.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:58:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:58:45+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_amex.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:58:45+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:59:01+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_visa.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:59:01+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:59:02+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_master.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:59:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:59:02+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_amex.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:59:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:59:40+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_fb.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:59:40+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:59:40+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_youtobe.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:59:40+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T20:59:40+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_tw.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T20:59:40+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:17+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie7-4.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:17+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:18+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie7-3.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:18+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie6-2.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:19+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie7-1.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:19+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:19+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie7-5.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:19+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:20+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie7-6.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:20+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:20+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/opera.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:20+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:21+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/firefox.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:21+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie7-2.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:00:22+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/cookies/ie6-1.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:00:22+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:01:10+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_fb.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:01:10+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:01:10+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_tw.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:01:10+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:01:11+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/i_youtobe.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:01:11+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:02:33+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/electronics_cellphones.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:02:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:02:34+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/head_electronics_digicamera.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:02:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:02:35+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/electronics_digitalcameras.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:02:35+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:02:36+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/head_electronics_laptops.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:02:36+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:02:36+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/head_electronics_cellphones.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:02:36+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:02:37+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/media/electronics_laptops.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:02:37+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:09:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:09:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:09:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:09:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:09:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:09:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:10:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:10:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:10:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:10:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:10:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:10:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:11:08+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:11:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:13:29+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:13:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:13:57+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:13:57+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:14:06+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:14:06+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:14:13+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:14:14+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:15:08+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:15:08+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:15:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:21+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:25+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:25+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:47+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:50+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:50+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:16:51+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:16:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:17:34+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:17:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:17:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:17:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:18:03+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:18:03+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:18:07+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:18:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:18:21+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:18:21+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:20:30+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:20:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:21:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:21:50+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:21:50+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:21:53+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:21:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:21:53+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:21:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:21:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:21:53+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:21:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:22:23+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:22:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:22:24+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:22:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-03T21:22:24+00:00 ERR (3): Warning: getimagesize(http://184.154.120.234/~kwilt/magento/skin/adminhtml/base/default/images/block3.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/kwilt/public_html/magento/lib/Varien/Image/Adapter/Abstract.php on line 87
+2013-09-03T21:22:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/kwilt/public_html/magento/lib/Zend/Controller/Response/Abstract.php:766
+[2] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /home/kwilt/public_html/magento/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/kwilt/public_html/magento/app/Mage.php:683
+[6] /home/kwilt/public_html/magento/index.php:87
+</pre>
+2013-09-05T16:48:24+00:00 ERR (3): Warning: Illegal string offset 'new_file'  in /home/kwilt/public_html/magento/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php on line 157
+2013-09-05T16:48:24+00:00 ERR (3): Warning: Illegal string offset 'label'  in /home/kwilt/public_html/magento/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php on line 158
+2013-09-05T16:48:24+00:00 ERR (3): Warning: Illegal string offset 'new_file'  in /home/kwilt/public_html/magento/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php on line 157
+2013-09-05T16:48:24+00:00 ERR (3): Warning: Illegal string offset 'label'  in /home/kwilt/public_html/magento/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php on line 158
+2013-09-05T16:48:24+00:00 ERR (3): Warning: Illegal string offset 'new_file'  in /home/kwilt/public_html/magento/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php on line 157
+2013-09-05T16:48:24+00:00 ERR (3): Warning: Illegal string offset 'label'  in /home/kwilt/public_html/magento/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php on line 158

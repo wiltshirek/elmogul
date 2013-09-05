@@ -1,0 +1,67 @@
+<div class="widget widget-new-products">	
+    <div class="widget-products">
+	<div id="slideshow1" class="slideshow1">
+	<div class="slideshow-box">
+	<ul class="products-grid">
+                        <li id="slide-grid-0" class="item first">
+				<a href="http://184.154.120.234/~kwilt/magento/index.php/hampton.html?___SID=U" title="Hampton " class="product-image"><img style="background-color:#FFF" src="http://184.154.120.234/~kwilt/magento/media/catalog/product/cache/1/small_image/225x225/9df78eab33525d08d6e5fb8d27136e95/w/c/wc10009_2_.jpg" width="225" height="225" alt="Hampton " /></a>
+				                <div class="product-detail-slide" id="detail-slide-grid-0">
+					 <h3 class="product-name"><a href="http://184.154.120.234/~kwilt/magento/index.php/hampton.html?___SID=U" title="Hampton )">Hampton </a></h3>
+                
+
+        
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-167-widget-new-grid">
+                    <span class="price">$29.00</span>                </span>
+                        
+        </div>
+
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://184.154.120.234/~kwilt/magento/index.php/checkout/cart/add/uenc/aHR0cDovLzE4NC4xNTQuMTIwLjIzNC9-a3dpbHQvbWFnZW50by8,/product/167/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                    					                 </div>
+				<script>
+			jQuery(function($) {
+
+			 $('#detail-slide-grid-0').hide();
+
+
+			 $('#slide-grid-0')
+			 .bind('mouseover', showMenu1)
+			 .bind('click', showMenu1)
+			 .bind('mouseout', hideMenu1);
+
+			 $('#detail-slide-grid-0')
+			 .bind('mouseover', showMenu1)
+			 .bind('click', hideMenu1)
+			 .bind('mouseout', hideMenu1);
+
+			 var timeout = null;
+			 function hideMenu1() {
+			 if (timeout)
+			 clearTimeout(timeout);
+
+			 timeout = setTimeout(function() {
+			 timeout = null;
+			 $('#detail-slide-grid-0').slideUp();
+			 }, 200);
+			 }
+
+			 function showMenu1() {
+			 if (timeout)
+			 clearTimeout(timeout);
+
+			 timeout = setTimeout(function() {
+			 timeout = null;
+			 $('#detail-slide-grid-0').slideDown();
+			 }, 200);
+			 }
+			}); 
+			</script>
+            </li>
+			
+        		     </ul>
+			 </div>
+				<a href="#" class="previous">Previous</a>
+				<a href="#" class="next">Next</a>
+			</div>
+    </div>
+</div>
